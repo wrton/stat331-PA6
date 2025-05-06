@@ -1,10 +1,6 @@
 ---
 title: "Practice Activity 6"
-<<<<<<< HEAD
-author: "Will, Andrew, Dylan"
-=======
 author: "Will Ton, Andrew Loehr, Dylan Hernandez"
->>>>>>> 63f7c2b9027c46be997cea6f37c9d45ef0ad3241
 embed-resources: true
 format: html
 editor: visual
@@ -19,7 +15,7 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
-
+11*11
 ```
 
 You can add options to executable code like this
