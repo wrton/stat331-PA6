@@ -1,10 +1,6 @@
 ---
 title: "Practice Activity 6"
-<<<<<<< HEAD
-author: "Will, Andrew, Dylan"
-=======
 author: "Will Ton, Andrew Loehr, Dylan Hernandez"
->>>>>>> 63f7c2b9027c46be997cea6f37c9d45ef0ad3241
 embed-resources: true
 format: html
 editor: visual
